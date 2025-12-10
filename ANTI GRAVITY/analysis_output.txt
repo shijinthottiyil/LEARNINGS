@@ -1,0 +1,15 @@
+Analyzing ANTI GRAVITY...                                       
+
+   info • The constant name 'INITIAL' isn't a lowerCamelCase identifier • lib/app/routes/app_pages.dart:12:16 • constant_identifier_names
+   info • The constant name 'HOME' isn't a lowerCamelCase identifier • lib/app/routes/app_routes.dart:2:16 • constant_identifier_names
+   info • The constant name 'EMERGENCY' isn't a lowerCamelCase identifier • lib/app/routes/app_routes.dart:3:16 • constant_identifier_names
+   info • The constant name 'HISTORY' isn't a lowerCamelCase identifier • lib/app/routes/app_routes.dart:4:16 • constant_identifier_names
+   info • The constant name 'SETTINGS' isn't a lowerCamelCase identifier • lib/app/routes/app_routes.dart:5:16 • constant_identifier_names
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:59:54 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:84:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:117:39 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:155:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:158:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:227:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/views/home_view.dart:240:42 • deprecated_member_use
+
